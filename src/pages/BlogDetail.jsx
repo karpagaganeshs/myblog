@@ -58,10 +58,10 @@ const BlogDetail = () => {
   return (
     <div className="relative min-h-screen bg-gradient-to-br from-blue-100 to-blue-200">
       {/* Back Button (Mobile Only, Centered) */}
-      <div className="md:hidden flex justify-center mb-6">
+      <div className="md:hidden flex justify-items-start ml-5 ">
         <button
           onClick={() => navigate(-1)}
-          className="flex items-center my-9 px-5 py-2 rounded-full 
+          className="flex items-center px-5 py-2 mt-4 rounded-full 
                bg-gradient-to-r from-blue-600 to-purple-600 
                text-white font-medium shadow-lg
                hover:shadow-xl hover:scale-105 

@@ -1,4 +1,6 @@
 // src/components/Footer.jsx
+import { Link } from "react-router-dom";
+
 const Footer = () => {
   return (
     <footer className="relative bg-gradient-to-r from-blue-900 via-blue-800 to-indigo-900 text-white py-12 mt-16 overflow-hidden">
@@ -30,12 +32,12 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a
-                  href="/#all-blogs"
+                <Link
+                  to="/all-blogs"
                   className="hover:text-white hover:pl-1 transition-all"
                 >
                   All Blogs
-                </a>
+                </Link>
               </li>
               <li>
                 <a
