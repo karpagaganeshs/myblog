@@ -73,7 +73,7 @@ const BlogDetail = () => {
 
       {/* Scroll Progress Bar */}
       <div
-        className="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 z-50 transition-all duration-200"
+        className="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-200 via-blue-300 to-indigo-900 z-50 transition-all duration-200"
         style={{ width: `${scrollProgress}%` }}
       />
 
