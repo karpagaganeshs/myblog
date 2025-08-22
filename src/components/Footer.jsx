@@ -31,7 +31,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/all-blogs"
+                  href="/#all-blogs"
                   className="hover:text-white hover:pl-1 transition-all"
                 >
                   All Blogs
