@@ -57,6 +57,20 @@ const BlogDetail = () => {
 
   return (
     <div className="relative min-h-screen bg-gradient-to-br from-blue-100 to-blue-200">
+      {/* Back Button (Mobile Only) */}
+      <div className="md:hidden flex items-center mb-6">
+        <button
+          onClick={() => navigate(-1)} // or navigate("/") if you prefer homepage
+          className="flex items-center gap-2 px-4 py-2 rounded-full 
+               bg-gradient-to-r from-blue-600 to-purple-600 
+               text-white font-medium shadow-md 
+               hover:shadow-xl hover:scale-105 
+               transition-all duration-300"
+        >
+          ← Back
+        </button>
+      </div>
+
       {/* Scroll Progress Bar */}
       <div
         className="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 z-50 transition-all duration-200"
