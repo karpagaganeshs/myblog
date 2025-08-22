@@ -57,7 +57,7 @@ const Navbar = () => {
             {/* Right: Logo (desktop only) */}
             <div className="hidden md:block">
               <img
-                src="src/assets/logo.png"
+                src='https://res.cloudinary.com/dmg0m90am/image/upload/v1755887620/logo_kxzdiq.png'
                 alt="Logo"
                 className="w-20 h-20 object-contain"
               />

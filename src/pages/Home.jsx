@@ -27,7 +27,7 @@ const Home = () => {
         {/* Header */}
         <section className="flex flex-col md:flex-row items-center md:items-start gap-8 bg-gradient-to-br from-white/80 to-blue-100/20 rounded-2xl p-6 md:p-10 shadow-lg">
           <img
-            src="src/assets/your-photo.jpg"
+            src='https://res.cloudinary.com/dmg0m90am/image/upload/v1755887618/your-photo_cpbyp8.jpg'
             alt="Karpaga Ganesh"
             className="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover border-4 border-white shadow-lg"
           />
@@ -69,7 +69,7 @@ const Home = () => {
           <div className="flex flex-col md:flex-row items-center md:items-start gap-10 max-w-4xl mx-auto">
             <div className="relative">
               <img
-                src="src/assets/about-photo.jpg"
+                src='https://res.cloudinary.com/dmg0m90am/image/upload/v1755887619/about-photo_umssbv.jpg'
                 alt="Karpaga Ganesh"
                 className="w-36 h-36 md:w-44 md:h-44 rounded-full object-cover border-4 border-white shadow-lg"
               />
