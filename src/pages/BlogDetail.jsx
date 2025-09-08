@@ -6,8 +6,11 @@ import {
   FaFilm,
   FaHome,
   FaLaptopCode,
+  FaLinkedin,
   FaStar,
+  FaTwitter,
   FaUsers,
+  FaWhatsapp,
 } from "react-icons/fa";
 import { useNavigate, useParams } from "react-router-dom";
 import { blogs } from "../data/blogs";
@@ -22,6 +25,7 @@ const genreLinks = [
   { name: "Social", path: "/genre/social", icon: <FaUsers /> },
   { name: "Entertainment", path: "/genre/entertainment", icon: <FaFilm /> },
 ];
+
 const BlogDetail = () => {
   const { blogId } = useParams();
   const navigate = useNavigate();
@@ -57,17 +61,17 @@ const BlogDetail = () => {
 
   return (
     <div className="relative min-h-screen bg-gradient-to-br from-blue-100 to-blue-200">
-      {/* Back Button (Mobile Only, Centered) */}
-      <div className="md:hidden flex justify-items-start ml-5 ">
+      {/* Home Button (Mobile Only, Left-Aligned) */}
+      <div className="md:hidden flex justify-start ml-5">
         <button
-          onClick={() => navigate(-1)}
-          className="flex items-center px-5 py-2 mt-4 rounded-full 
+          onClick={() => navigate("/")}
+          className="flex items-center gap-2 px-5 py-2 mt-4 rounded-full 
                bg-gradient-to-r from-blue-600 to-purple-600 
                text-white font-medium shadow-lg
                hover:shadow-xl hover:scale-105 
                transition-all duration-300"
         >
-          ← Back
+          🏠 Home
         </button>
       </div>
 
@@ -131,6 +135,50 @@ const BlogDetail = () => {
             {blog.content.split("\n\n").map((para, idx) => (
               <p key={idx}>{para}</p>
             ))}
+          </div>
+
+          {/* Share Section */}
+          <div className="mt-10 border-t pt-6">
+            <h3 className="text-lg font-bold text-gray-800 mb-3">
+              Share this article
+            </h3>
+            <div className="flex gap-4">
+              {/* WhatsApp */}
+              <a
+                href={`https://wa.me/?text=${encodeURIComponent(
+                  blog.title + " - " + window.location.href
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 rounded-full bg-green-500 text-white font-medium hover:scale-105 transition"
+              >
+                <FaWhatsapp /> WhatsApp
+              </a>
+
+              {/* Twitter / X */}
+              <a
+                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+                  blog.title
+                )}&url=${encodeURIComponent(window.location.href)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500 text-white font-medium hover:scale-105 transition"
+              >
+                <FaTwitter /> X
+              </a>
+
+              {/* LinkedIn */}
+              <a
+                href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+                  window.location.href
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 rounded-full bg-blue-700 text-white font-medium hover:scale-105 transition"
+              >
+                <FaLinkedin /> LinkedIn
+              </a>
+            </div>
           </div>
         </article>
       </div>
