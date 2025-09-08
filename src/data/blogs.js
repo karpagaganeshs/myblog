@@ -143,7 +143,7 @@ Moreover it may feel like a small wagon of FIVE POINT SOMEONE of Chetan Bhagatâ€
   },
   {
     id: '4',
-    title: "What happened when Google was a startup?",
+    title: "What happened when Google was a startup? How Dutch auction IPO helped Google when it was a startup?",
     genre: 'startup-stories',
     summary: 'A detailed breakdown of IPO, Dutch vs English auction',
     date: '2025-09-08',
@@ -210,6 +210,10 @@ The $85 per share was just the beginning. Google used the funds from the IPO to 
 
 â€‹That initial $85 share has since split multiple times. Just an investment of $1,000 back in 2004 would be worth hundreds of thousands of dollars today. And the rest is history.. 
 
-The key takeaway I had from the Story of Google's unconventional IPO is.. Give returns to your native, support the people who supported you!`}
+The key takeaway I had from the Story of Google's unconventional IPO is.. Give returns to your native, support the people who supported you!
+
+Thanks for reading till the end!
+
+- By Karpaga Ganesh`}
   // Add more...
 ]
