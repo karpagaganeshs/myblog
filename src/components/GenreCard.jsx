@@ -37,7 +37,7 @@ const GenreCard = ({ blog, reverse, count }) => {
         </h2>
 
         <p className="mt-4 text-gray-700 text-sm md:text-base leading-relaxed max-w-prose">
-          {blog.summary}
+          {`Discover all my blog posts related to ${blog.genre}`}
         </p>
 
         {/* Button + Post Count */}
