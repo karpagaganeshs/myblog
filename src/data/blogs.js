@@ -140,6 +140,76 @@ And atlast and atleast we need someguy like him to make our lives better and mor
 But guys like me need these type of first bench friends for their assignment goods too…
 Moreover it may feel like a small wagon of FIVE POINT SOMEONE of Chetan Bhagat…But this is MY STORY – so it must be a “CULT CLASSIC”.
 `,
-  }
+  },
+  {
+    id: '4',
+    title: "What happened when Google was a startup?",
+    genre: 'startup-stories',
+    summary: 'A detailed breakdown of IPO, Dutch vs English auction',
+    date: '2025-09-08',
+    image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1757337163/Gemini_Generated_Image_btr9oybtr9oybtr9_amhrwd.png',
+    content:`Welcome to the world of Lannisters and Starks.. Wait, wait, wait.. You might think, if you are going to talk about Game of Thrones, then why is the title 
+How Dutch auction help Google win its IPO?
+Or 
+How Dutch auction differ from an English auction? 
+
+You might get strange.. What is IPO? What is a Dutch auction? What is an English auction? Or Even What this guy is blabbering about?
+
+But believe me, fellas, everything converges in this story of Game of Thrones.. In our Westeros (World Market), there were two kingdoms. One is the Lannisters (where the rich get richer), and another is the Starks (who believe they and their kingdom are because of the people) 
+
+Yesterday night, I think around 3 am (Don't misunderstand me as a cyber zombie), while surfing the internet, I found 2 stories
+
+Story 1 - Journey through turbulence:
+
+In early 2020, Airbnb was riding high. The company had revolutionized the travel industry by allowing homeowners to rent out their properties. Hopes were high for their IPO.
+
+An Initial Public Offering (IPO) is the process by which a privately owned company offers shares of its stock to the public for the first time. It can be understood as a company's debut on the stock market. Before an IPO, a company is typically funded by a smaller group of investors, such as its founders, VCs, etc. Going public allows a company to raise significant capital from a much wider pool of investors to fund its growth. 
+
+While Airbnb prepared for its IPO Coronation ceremony, disaster struck. The COVID-19 pandemic brought global travel to a screeching halt. Within weeks, Airbnb's bookings plummeted by over 80%. The company was reportedly losing money, found itself in a fight for survival. An IPO seemed impossible. But their resilience and emergency funding at higher interest rates took them to post-COVID. 
+
+However, what happened next was a testament to the company's adaptability. As lockdowns eased, a new travel trend emerged: people looked for longer-term stays in domestic locations, often in rural areas, to escape crowded cities and work remotely. Airbnb's business model with its diversity perfectly suited to this shift.
+
+In Dec 2020, the Coronation ceremony happened again. Airbnb went public. The initial IPO price was set at $68 per share and went till $146, more than double its initial price. Finally, Airbnb was valued at over $100 billion. 
+
+Motivating, right? But there was always someone who would say, "In the school where you studied, I was the headmaster. "
+
+Yeah, there begins our real story. 
+
+Story 2: Lannisters vs Starks
+
+The cyber zombie inside me never slept yesterday till 5 am.. And I read another article that came to me randomly. 
+
+Imagine yourself in a kingdom that started to flourish recently (Google's startup stage), the Stark King(Larry Page) tried to expand his Kingdom, tried to find investments for his troops(Google going for public IPOs). He went to the wealthiest Kingdom of Lannisters for investment and to get higher returns. But there, the tradition was to separate the investment and give it to the wealthiest landlords and allies for a high return. The common folk, the very people who helped and loved the Kingdom every day, would be locked outside the castle gates. They are not nourished, not even supported. (That is, by giving shares to big investment firms, normal people can't buy the shares.) The Stark King reflected on this and left with a word, "Our strength comes from the people. They should be the first to share in our future, not the last." Stark King said he would make everyone a part of his future, the Lannisters said it's impossible, and the Kingdom would fall. But the Stark King used a magical spell called the Democratic spell! 
+
+Coming to real time, with its search engine, Google was beloved by the people of the digital realm. But for development after their initial success, Google knew it needed more resources. So the founders thought of going for the IPO. 
+
+Traditionally, during an IPO, big investment banks call the shots. They decide who gets to buy the initial shares and at what price. This system often favours big, wealthy clients, leaving the average person out.
+
+​Google’s founders, Larry Page and Sergey Brin, thought this was unfair. They wanted everyone, from their own users to small-time investors, to have a fair chance at buying their shares. Their motto was "Don't Be Evil," and they wanted their IPO to reflect that.
+
+​So, they chose a very unusual method, the magical spell I mentioned, which is called DUTCH AUCTION.
+
+What is a Dutch Auction IPO?
+
+​Instead of letting the banks set a fixed price
+
+​Bidding: The company announces a potential price range. Any investor (big or small) can bid on how many shares they want and the maximum price they are willing to pay.
+
+​Finding the Price: The company then looks at all the bids, starting from the highest price and going down, until it finds a price where all the shares it wants to sell can be sold. This price is called the "Clearing price".
+
+​Democratic pay: Here's the revolutionary part. Everyone who bid at or above the clearing price gets the shares, and they all pay the same price, the clearing price. It doesn't matter if you bid $100 and the final price was $85; you only pay $85.
+
+August 19, 2004 - After all the criticism, Google went ahead and set their clearing price, i.e., the final IPO price at $85 per share. The company was valued at about $23 billion on its first day.
+
+Global behemoth Transformation of Google:
+
+The $85 per share was just the beginning. Google used the funds from the IPO to dominate
+1. Search engine market
+2. Develop Android
+3. Buy YouTube, and invest in countless other technologies. 
+
+​That initial $85 share has since split multiple times. Just an investment of $1,000 back in 2004 would be worth hundreds of thousands of dollars today. And the rest is history.. 
+
+The key takeaway I had from the Story of Google's unconventional IPO is.. Give returns to your native, support the people who supported you!`}
   // Add more...
 ]
