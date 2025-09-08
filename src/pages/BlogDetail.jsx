@@ -6,11 +6,8 @@ import {
   FaFilm,
   FaHome,
   FaLaptopCode,
-  FaLinkedin,
   FaStar,
-  FaTwitter,
-  FaUsers,
-  FaWhatsapp,
+  FaUsers
 } from "react-icons/fa";
 import { useNavigate, useParams } from "react-router-dom";
 import { blogs } from "../data/blogs";
@@ -138,47 +135,34 @@ const BlogDetail = () => {
           </div>
 
           {/* Share Section */}
+          {/* Share Section */}
           <div className="mt-10 border-t pt-6">
             <h3 className="text-lg font-bold text-gray-800 mb-3">
               Share this article
             </h3>
-            <div className="flex gap-4">
-              {/* WhatsApp */}
-              <a
-                href={`https://wa.me/?text=${encodeURIComponent(
-                  blog.title + " - " + window.location.href
-                )}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-4 py-2 rounded-full bg-green-500 text-white font-medium hover:scale-105 transition"
-              >
-                <FaWhatsapp /> WhatsApp
-              </a>
+            <button
+              onClick={() => {
+                const shareData = {
+                  title: blog.title,
+                  text: "Check out this blog!",
+                  url: window.location.href,
+                };
 
-              {/* Twitter / X */}
-              <a
-                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-                  blog.title
-                )}&url=${encodeURIComponent(window.location.href)}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500 text-white font-medium hover:scale-105 transition"
-              >
-                <FaTwitter /> X
-              </a>
-
-              {/* LinkedIn */}
-              <a
-                href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
-                  window.location.href
-                )}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-4 py-2 rounded-full bg-blue-700 text-white font-medium hover:scale-105 transition"
-              >
-                <FaLinkedin /> LinkedIn
-              </a>
-            </div>
+                if (navigator.share) {
+                  navigator.share(shareData).catch((err) => console.log(err));
+                } else {
+                  navigator.clipboard.writeText(shareData.url);
+                  alert("Link copied to clipboard!");
+                }
+              }}
+              className="flex items-center gap-2 px-6 py-3 rounded-full 
+               bg-gradient-to-r from-blue-600 to-purple-600 
+               text-white font-medium shadow-lg
+               hover:shadow-xl hover:scale-105 
+               transition-all duration-300"
+            >
+              📤 Share
+            </button>
           </div>
         </article>
       </div>
