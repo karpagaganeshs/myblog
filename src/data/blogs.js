@@ -214,6 +214,84 @@ The key takeaway I had from the Story of Google's unconventional IPO is.. Give r
 
 Thanks for reading till the end!
 
-- By Karpaga Ganesh`}
+- By Karpaga Ganesh`},
+{
+  id: '5',
+  title: "If I get a chance to delete a day in my life?",
+  genre: 'my-journey',
+  summary: 'Story of My Endurance, Perks and Pains of my life',
+  date: '2025-10-01',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1759292456/blog5a_urljgm.jpg',
+  content:`Sept 27, 2025- An unforgivable and unforgettable day of my life. Not talking about the Stampede at Vijay's political rally in Karur... I deeply mourn for the lost souls.. But this day sept 27 is something personal for me.
+
+I'll tell you why... This day shook away the happiness that held my hidden smile from most of you. Drained the last drop of hope that resided in my heart. 
+
+Some days leave scars so deep that you can’t forget them. September 27, 2025, is one of those days for me.
+
+My eyes started the sweat.. Nothing rolled down expect thoughts. Those thoughts flowed like a river inside my nerves so that I can't even cope up with it's speed. Some thoughts made me feel guilty, some made me angry, others made me mourn; ultimately, they made me feel lost. But this river of thoughts ended up in a sea - the sea of enlightenment, the sea of happiness, where I found a treasure with a magical scroll containing three spells. 
+
+You know, the bad day of my life ended with a good sleep... That's because those spells that gave me the serenity. 
+
+FIRST SPELL: 
+
+From the day my awareness dawn, I was carrying a trauma silently which was an untold one to my childhood buddies, to my understanding friends, even to my parents. It haunted me for 20 years. But this day sept 27, 2025 dwarfed a bigger trauma than the one I was holding throughout my lifetime.
+
+I was floundering that day... Did I actually do something wrong?
+Or am I blaming myself for something beyond my control? These thoughts left me feel guilty ultimately.. But the first spell in the scroll gave me the answer - 
+
+"YOU TRIED IT TRULY, BUT IT WENT BADLY... " -  Yea I tried it truly that's for sure but how it ended? It's not in my hands.. Right?
+
+Fix it; if you can’t, forgive yourself. Grow from it!
+
+Yes... That's the thing I wanted... Because at some point
+It's ok to feel guilty... Feeling guilty is just a call from your mind telling you the very thing that you're doing unknowingly was not aligning with your values. 
+
+SECOND SPELL:
+
+I forgave myself but how will I grow from it? 
+
+Over the time, It was my fuel for growing. Now without that essential how my car is gonna run?
+
+I can't compare the pain of my first thought and this... Both are painful... But this thought is not about forgiving it's about forgetting - the very own thing that made me feel happy... This thought gave me the biggest ache and pain.
+
+Surprisingly this thought was stopped when I read the second spell of the scroll... 
+
+Just wanna tell you one thing which I understood from that spell, 
+"It doesn't matter how much pain you have endured in past if you get hurt again it pains the same that's for sure. 
+Just the threshold goes up.
+Keep trusting yourself and start building your own best version."
+
+Yeaa.. The second spell that lifted me up was - "WHAT DOESN'T KILL YOU MAKES YOU STRONGER EVENTUALLY."
+
+At that moment of sept 27, after reading that second spell, the boy I once was faded, and a man began to emerge. It wasn’t about losing innocence; it was about gaining resilience. It's my official wrap to my teen years. 
+
+Just felt like someone is chanting this in my eyes - Kill the boy, and let the man be born John Snow!
+
+THIRD SPELL:
+
+I didn't remember who said this to me... But in my childhood I heard this from someone "The more you laugh in a day, the more tears you’ll shed by the end of the day."
+
+Of course... It's true
+
+"The Person You Love Is the Person You Fight With."
+
+The house you buy is the house you repair. The dream job you take is the job you stress over.
+
+Everything comes with an inherent sacrifice. Whatever makes us feel good will inevitably also make us feel bad.
+
+In my case.. It's the september month of 2025. It started as a spring but ended in autumn. Coz This is the month I got my placement offer... This month carried my wish come true moments... But by the end it crucified me.
+
+Yet, in rewinding it, I saw myself celebrating the perks and forgot the peak I needed to climb which was awaiting for me... And in my whole life, I too waited for it... 
+
+At some point in life we may feel guilty, angry with ourselves, thought of losing, disappointment, dissatisfaction with our own self, even the feeling of crucification like me.. But think of this, always there will be an INNER DREAM for everyone of us. Start mastering yourself for it. Conquer it. Because I am damn sure when you reach the top of your peak.. That is your desired destiny you will feel satisfied - the guilt, the anger, the pain everything you're carrying vanishes at that moment... Because you’re the one standing there alone, enduring all your pains and crossing all your own hurdles!
+
+And today I am going to start climbing my peak... What are you going to do? Gonna enjoy your perks or...
+
+Want to know the final spell of the scroll - "NEXT STOP, THE TOP!"
+
+Thanks for reading till the end dear friend. 
+
+- By Karpaga Ganesh`
+},
   // Add more...
 ]
