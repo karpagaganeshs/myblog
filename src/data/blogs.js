@@ -228,7 +228,7 @@ I'll tell you why... This day shook away the happiness that held my hidden smile
 
 Some days leave scars so deep that you can’t forget them. September 27, 2025, is one of those days for me.
 
-My eyes started the sweat.. Nothing rolled down expect thoughts. Those thoughts flowed like a river inside my nerves so that I can't even cope up with it's speed. Some thoughts made me feel guilty, some made me angry, others made me mourn; ultimately, they made me feel lost. But this river of thoughts ended up in a sea - the sea of enlightenment, the sea of happiness, where I found a treasure with a magical scroll containing three spells. 
+My eyes started to sweat.. Nothing rolled down except thoughts. Those thoughts flowed like a river inside my nerves so that I can't even cope up with it's speed. Some thoughts made me feel guilty, some made me angry, others made me mourn; ultimately, they made me feel lost. But this river of thoughts ended up in a sea - the sea of enlightenment, the sea of happiness, where I found a treasure with a magical scroll containing three spells. 
 
 You know, the bad day of my life ended with a good sleep... That's because those spells that gave me the serenity. 
 
