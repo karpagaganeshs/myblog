@@ -244,7 +244,7 @@ Or am I blaming myself for something beyond my control? These thoughts left me f
 Fix it; if you can’t, forgive yourself. Grow from it!
 
 Yes... That's the thing I wanted... Because at some point
-It's ok to feel guilty... Feeling guilty is just a call from your mind telling you the very thing that you're doing unknowingly was not aligning with your values. 
+It's ok to feel guilty... Feeling guilty is just a call from our mind telling us the very thing that we're doing unknowingly was not aligning with our values. 
 
 SECOND SPELL:
 
@@ -252,7 +252,7 @@ I forgave myself but how will I grow from it?
 
 Over the time, It was my fuel for growing. Now without that essential how my car is gonna run?
 
-I can't compare the pain of my first thought and this... Both are painful... But this thought is not about forgiving it's about forgetting - the very own thing that made me feel happy... This thought gave me the biggest ache and pain.
+I can't compare the pain of my first thought and this... Both are painful... But this thought is not about forgiving it's about forgetting - the very own thing that made me feel happy... This thought gave me the biggest ache.
 
 Surprisingly this thought was stopped when I read the second spell of the scroll... 
 
@@ -283,7 +283,7 @@ In my case.. It's the september month of 2025. It started as a spring but ended 
 
 Yet, in rewinding it, I saw myself celebrating the perks and forgot the peak I needed to climb which was awaiting for me... And in my whole life, I too waited for it... 
 
-At some point in life we may feel guilty, angry with ourselves, thought of losing, disappointment, dissatisfaction with our own self, even the feeling of crucification like me.. But think of this, always there will be an INNER DREAM for everyone of us. Start mastering yourself for it. Conquer it. Because I am damn sure when you reach the top of your peak.. That is your desired destiny you will feel satisfied - the guilt, the anger, the pain everything you're carrying vanishes at that moment... Because you’re the one standing there alone, enduring all your pains and crossing all your own hurdles!
+At some point in life we may feel guilty, angry with ourselves, thought of losing, disappointment, dissatisfaction with our own self, even the feeling of crucification like me.. But think of this, always there will be an INNER DREAM for everyone of us. Start mastering yourself for it. Conquer it. Because I am damn sure when you reach the top of your peak.. That is your desired destiny you will feel satisfied - the guilt, the anger, the pain everything you're carrying vanishes at that moment... It's because you’re the one standing there alone, enduring all your pains and crossing all your own hurdles!
 
 And today I am going to start climbing my peak... What are you going to do? Gonna enjoy your perks or...
 
