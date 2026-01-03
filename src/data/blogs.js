@@ -294,87 +294,141 @@ Thanks for reading till the end dear friend.
 - By Karpaga Ganesh`
 },
 {
-  id: '6',
-  title: "We-men need not to empower Women",
-  genre: 'social',
-  summary: 'A thought that arouse in my mind, just a random thought!',
-  date: '2025-12-30',
-  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1767037951/blog_6_skazic.webp',
-  content:`Sometimes, it feels like “Yes, I am in and I am going to do this!” and on the contrary some things make you feel like “Should I need to do this stuff now?”. And yeah, that’s how I felt when this topic came into my mind. But TBH there are lots of circumstances that me to take a uturn from “Should I need to write about this?” to “Yes, Definitely I am write about this!”. 
-  
-This is a controversial topic, I should be directly delving into the core to make my statement clear. But before those serious stuffs make your brain to start braining, let’s see the circumstances that made me write this blog. Because that’s the only fun part in this whole blog.
+    id: '6',
+    title: "I would marry Instagram, if it were a person!",
+    genre: 'social',
+    summary: 'A Discussion on Social media exploitation with a real life incident',
+    date: '2026-01-03',
+    image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1767377020/Gemini_Generated_Image_6pd32f6pd32f6pd3_j2pqug.png',
+    content: `The night before last(New year day), I really started to suffocate again. Something stuck in my mind began to haunt me like it did everyday from last November. But it was too bad that day. To be precise, from morning to night it was like a growing graph (i.e., exponential) it just started to go up up and again up. Sorry to explain like this, but unfortunately being an Engineering lad, I only know these stuffs, that’s why graphical representation of sadness came into picture. It affected all my activities, no focus and did nothing that day except eat – just wasted.
 
-CIRCUMSTANCE 1:
+But yesterday, I did my workout and, surprisingly, finished a 300 pages book. TBH, a productive day. Crazy, right?
 
-To know this circumstance, you need to travel with me to Boy’s hostel. Huh, Dirty cloths and messy rooms I can hear you. Yeah of course, but “We are good” – we don’t paste any heroine’s poster on the walls, just because we’re not in 90s where they don’t have a phone as well as good internet. And I say this again “We are good” but I never said “We are so good”.
+Even yesterday It was inside my mind… yeah the sadness, I had it. I remember, some psychological authors used to say this term – Emotional pain stays within your body. Likewise, my sadness too. But annoyingly, it didn't follow that exponential curve anymore. It was like a flat line.
 
-I think now you can understand the context. Let’s see what happened on room E7 on a random day of my first year. This room is the place where debates take place. On that day, the topic started somewhere and reached hotness at this question, “Should you expect your future wife to be a virgin?”.
+THE CRAZIEST THING:
 
-There are two parties. It’s a long debate with some words (I even don’t know their meaning in English). Lemme come to the important part of it. One of my best friend said, “I know I will be virgin till my marriage and I expect the same from my wife too”. And I remember how it ended “Congrats bro, it’s like finding a dinosaur”.
+What did I do differently? How did I manage? Even though the feeling of sadness remained, it didn't stop my day-to-day activities.
 
-People I am not concluding by saying all girls are like this. The problem is in both sides. See in today’s world most of the girls DMs are filled with messages. At least there will be three Romeos. That’s the problem I see in men’s side. The bitter truth is “Boys, women make the path easier for the men they desire”. The whole universe won’t help you, but if she wants you she will help you (Hints man hints). 
+What’s the change? The change was I just deleted one app from my phone. You can probably guess which one. Obviously, it was INSTAGRAM.
 
-But women “How did you choose that desired guy? The one?”. It’s a two phase process. After telling them you girls will definitely slay me by saying it’s not like that KG and I didn’t just state them from any relationship advice book, personally I heard them from my girly friends. Phase 1 – Efforts matter phase – here you will silently see what he does for you, just showing like you don’t care. Phase 2 – Breaking point – this is the moment after all the collection of efforts, at that one last single effort you will feel “He will do anything for me”. 
+How deleting Instagram alone made the day better? Let's see
 
-The problem I see in women’s side is this two phase attraction process. Dear ladies, A man’s priorities change over time. Some point in life he should only be focusing on his career because after the age of 20 it’s the man’s responsibility to take his family on his shoulders, the entire upcoming generation depends on him. But for women it’s not like that MOST OFTEN, they have options and I say this according to India. I am not stating that men are the pillars of responsibility, even my mother is a working woman she supported my family all the time, really wanted to underline that most often in the last sentence. 
+DIVORCING MY UNDERSTANDING PARTNER (INSTAGRAM):
 
-Coming to that point of man’s focusing period, if you feel your man is ignoring at that timeyou then you’re not in an understanding relationship. Yeah, that’s the truth the efforts he had put for you are the good moments and his suffering are his bad moments. If you can’t understand his suffering, How will you guys be an understanding couple in future?”.
+Recently you must have seen the change in icons of the bottom navigation bar of Instagram.
 
-CIRCUMSTANCE 2:
+From: Home-Search-Create-Reels-Profile
 
-Recently I watched Bad girl movie. The thoughts were appealing and it’s a coming of age film for sure. I personally loved the movie and I thought let’s see how a women reviewed it. I asked for my female friend’s letterboxd ID who had seen that movie. But the twist is I never saw bad girl review. Surprisingly what I saw was the review for the movie named Aan paavam polladhadhu. It’s her wish to review whatever she felt but the review started with, The director is a male chauvinist. There are flaws in the film too, I totally agree. As a movie watcher, book reader or whatever it we’re, we should take only the good stuffs from it not the bad or disturbing ones. It’s just the author’s POV.
+To: Home-Reels-Inbox-Search-Profile
 
-People there are 2 things I felt after watching that film
+It's the most hated update, isn't it? But why they did that? The reason is, They want the very next thing you see after "Home" to be "Reels." They want to maximize your scrolling time. However this design has failed, since we developed the habit of pressing the reels icon from the fourth place in Navigation bar.
 
-1.	The whole society is not like that – it’s the director’s perspective and his life influences.
+Now I think of this, why they wanted you to scroll all time? 
 
-2.	But there are couples like them exist too.
+The answer will be “In order to show ads”. Yes, of course.
 
-Personally, I loved that film. Now will she call me a male chauvinist? Definitely not! She knows all my struggles and problems I faced till date.
+Let’s make it more interesting, when I was a child while watching TV I used to jump between channels during ads. But if it was my favourite show, I wouldn't miss a single second of it by jumping between channels. Instagram does the same too. You tend to watch the next reel after ad (sometimes ads), because it shows your favourite feed or more relative content. The content relevant to your current life will make you emotionally attached. When you get attached, you will spend more time.
 
-CIRCUMSTANCE 3:
+But it doesn’t stop there. Only then, the real villain comes into picture, “EXPLOITATION”.
 
-Dear friends, you all have watched CHAK DE! INDIA. To me it’s the best sports movie ever filmed by Indian cinema and it’s one of the rarest gem that speaks real “Feminism”. In one scene SRK will take all the players of the Indian women’s hockey team to a restaurant for his farewell. There in the restaurant a guy messes up with one player of the team but SRK as a hero of the film never shows heroism by entering the scene, he silently sits and make all the players gets united against that guy. Because in that particular scene SRK knows the united power his girls can defeat that guy. That’s what I am trying to convey, 
+SOCIALMEDIA EXPLOITATION:
 
-“THERE IS NOTHING THAT CAN ONLY BE DONE BY A MAN AND EVERYTHING CAN BE DONE BY TODAY’S WOMAN FROM BEING PILOT TO PRESIDENT”.
+In some cases of married life, one partner may be abused without even realizing that the abuse is happening. Instagram is also exploiting your feelings, without you even “Knowing it”. In my case, I understood my lovely partner (Instagram) was exploiting me. It showed me more relevant feeds and consumed my time, that’s fine. But what strange happened is, I felt stuck, I heard like someone screaming inside my mind telling that – “You didn’t do anything wrong, prove them they’re wrong, Have your revenge by it”. Now all my sadness turned into hatred. Seriously that moment I felt like something evil was sitting on my brain and started to manipulate me.
 
-WOMEN ARE EVERYWHERE, THEY ARE IN EVERY SECTOR – SO THERE IS NO NEED FOR A MAN TO LIFT YOU UP.
+But even in the darkest of times, there will be light, right? And somewhere inside my mind I heard my own voice, “This is not the real you, Come back”.
 
-Hardly 2 decades of this film, bad shit was I am still seeing some guy in the name of coach motivating a girl behind the door to come out and play. Kinda heroism our generation enjoy watching.
+On that second, I deleted Instagram, my "beloved wifey". Yeah, that’s the moment I understood how much I was exploited.
 
-These were my circumstances.
-
-RANDOM THOUGHT: (core)
-
-In the olden days, there is no freedom for women. Hmm, they will be at the kitchen just cooking.
-
-But now, Modern men are really different. They say you’re free dear, independent. You can go to work, let’s help each other to run the family. But what about cooking? When it comes to cooking – you can do that too dear. Understood the loop, see how intelligent we men are, making you earn and help the family as well as to cook. I think this trend is changing these days as most men are accompanying their woman not only in the bedroom but also in the kitchen too.
-
-"IF PUTTING A WOMAN INSIDE A KITCHEN IS AN ACT OF SLAVERY MEANS THEN PUTTING EVERYTHING LIKE GOING FOR JOB TO RUN THE FAMILY, HANDLING THE KIDS, DOING COOKING IN A WOMAN’S HEAD LIKE A SLAVE, ISN’T A SLAVERY?"
-
-May be you can show me the education rate, success rate of women over the decades. I agree with that but it’s completely a woman’s decision to WORK OR COOK | WORK AS WELL AS COOK.
-
-To all my fellows,
-
-Like I said “Women are everywhere, they can empower themselves and SURELY THEY WILL EMPOWER THEMSELVES”.
-
-We-men need not to make Women Independent
-
-We-men need not to empower Women… :)
+It isn't easy to throw away something I've used for 5 years. I will likely install it again, I’ll even share this blog there - BUT THIS TIME, I WILL DECIDE HOW I USE IT. One my friend does this, he will just come to instagram to post stories and after posting he will vanish. It's 100% working guys. It will workout for you too, if you don't have FOMO. Like my mallu friend, I will reinstall it when needed, then delete it again. Like CAPTAIN AMERICA WILL RETURN IN AVENGERS DOOMSDAY and when needed ;)
 
 A SORRY NOTE:
 
-I wrote my last blog on Oct 1 and after that I never touched it. For every writer they feel happy when they write. For me it works differently, I need to feel happy to write. Starting from the end of September for the past three months I never felt happy. I just smiled without happiness. I went through a lot over these 3 months something that will be hidden inside me forever. A pack of storm after storm moments, something disastrous happened in my life on some random day and I came to know about it after 10 days. That’s how my birthday month went. Isn’t funny? Life is so funny these days.
+I wrote my last blog on Oct 1 and after that I never touched it. For every writer they feel happy when they write. For me it works differently, I need to feel happy to write. Starting from the end of September for the past three months I never felt happy. I just smiled without happiness. I went through a lot over the last 3 months of 2025, thing that will be hidden inside me forever. A pack of storm after storm moments, something disastrous happened in my life on some random day and I came to know about it after 10 days. That’s how my birthday month went. Isn’t funny? Life is so funny these days.
 
-Everything got fucked up and the however those storms are over and at least peace is there.
+Everything got fucked up and the however those storms are over now and at least peace is there.
 
-And nowadays I think peace is better than happiness.
+And nowadays I started think that, peace is better than happiness.
 
-Usually I’ll finish writing a blog in one sitting, but for this blog it took four sittings even though it’s not a research needed one - just my thoughts. It’s hard for me to write these days and I’ll try to write in future…
+Usually I’ll finish writing a blog in one sitting, but for this blog it took four sittings even though it’s not a research needed one. It’s hard for me to write these days and I’ll try to write in future…
 
-Thanks man for reading till the end!
+Thank you for reading till the end!
 
-- By Karpaga Ganesh`
-},
+- By Karpaga Ganesh
+`,
+  },
+// {
+//   id: '7',
+//   title: "We-men need not to empower Women",
+//   genre: 'social',
+//   summary: 'A thought that arouse in my mind, just a random thought!',
+//   date: '2026-01-08',
+//   image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1767187093/blog_7_tx0nsw.jpg',
+//   content:`Sometimes, it feels like “Yes, I am in and I am going to do this!” and on the contrary some things make you feel like “Should I need to do this stuff now?”. And yeah, that’s how I felt when this topic came into my mind. But TBH there are lots of circumstances that me to take a uturn from “Should I need to write about this?” to “Yes, Definitely I am write about this!”. 
+  
+// This is a controversial topic, I should be directly delving into the core to make my statement clear. But before my random thoughts make your brain to start braining, let’s see the circumstances that made me write this blog. Because that’s the only fun part in this whole blog.
+
+// CIRCUMSTANCE 1:
+
+// To know this circumstance, you need to travel with me to Boy’s hostel. Huh, Dirty cloths and messy rooms I can hear you. Yeah of course, but “We are good” – we don’t paste any heroine’s poster on the walls, just because we’re not in 90s where they don’t have a phone as well as good internet. And I say this again “We are good” but I never said “We are so good”.
+
+// I think now you can understand the context. Let’s see what happened on room E7 on a random day of my first year. This room is the place where debates take place. On that day, the topic started somewhere and reached hotness at this question, “Should you expect your future wife to be a virgin?”.
+
+// There are two parties. It’s a long debate with some words (I even don’t know their meaning in English). Lemme come to the important part of it. One of my best friend said, “I know I will be virgin till my marriage and I expect the same from my wife too”. And I remember how it ended “Congrats bro, it’s like finding a dinosaur”.
+
+// People I am not concluding by saying all girls are like this. The problem is in both sides. See in today’s world most of the girls DMs are filled with messages. At least there will be three Romeos. That’s the problem I see in men’s side. The bitter truth is “Boys, women make the path easier for the men they desire”. The whole universe won’t help you, but if she wants you she will help you (Hints man hints). 
+
+// But women “How did you choose that desired guy? The one?”. It’s a two phase process. After telling them you girls will definitely slay me by saying it’s not like that KG and I didn’t just state them from any relationship advice book, personally I heard them from my girly friends. Phase 1 – Efforts matter phase – here you will silently see what he does for you, just showing like you don’t care. Phase 2 – Breaking point – this is the moment after all the collection of efforts, at that one last single effort you will feel “He will do anything for me”. 
+
+// The problem I see in women’s side is this two phase attraction process. Dear ladies, A man’s priorities change over time. Some point in life he should only be focusing on his career because after the age of 20 it’s the man’s responsibility to take his family on his shoulders, the entire upcoming generation depends on him. But for women it’s not like that MOST OFTEN, they have options and I say this according to India. I am not stating that men are the pillars of responsibility, even my mother is a working woman she supported my family all the time, really wanted to underline that most often in the last sentence. 
+
+// Coming to that point of man’s focusing period, if you feel your man is ignoring at that timeyou then you’re not in an understanding relationship. Yeah, that’s the truth the efforts he had put for you are the good moments and his suffering are his bad moments. If you can’t understand his suffering, How will you guys be an understanding couple in future?”.
+
+// CIRCUMSTANCE 2:
+
+// Recently I watched Bad girl movie. The thoughts were appealing and it’s a coming of age film for sure. I personally loved the movie and I thought let’s see how a women reviewed it. I asked for my female friend’s letterboxd ID who had seen that movie. But the twist is I never saw bad girl review. Surprisingly what I saw was the review for the movie named Aan paavam polladhadhu. It’s her wish to review whatever she felt but the review started with, The director is a male chauvinist. There are flaws in the film too, I totally agree. As a movie watcher, book reader or whatever it we’re, we should take only the good stuffs from it not the bad or disturbing ones. It’s just the author’s POV.
+
+// People there are 2 things I felt after watching that film
+
+// 1.	The whole society is not like that – it’s the director’s perspective and his life influences.
+
+// 2.	But there are couples like them exist too.
+
+// Personally, I loved that film. Now will she call me a male chauvinist? Definitely not! She knows all my struggles and problems I faced till date.
+
+// CIRCUMSTANCE 3:
+
+// Dear friends, you all have watched CHAK DE! INDIA. To me it’s the best sports movie ever filmed by Indian cinema and it’s one of the rarest gem that speaks real “Feminism”. In one scene SRK will take all the players of the Indian women’s hockey team to a restaurant for his farewell. There in the restaurant a guy messes up with one player of the team but SRK as a hero of the film never shows heroism by entering the scene, he silently sits and make all the players gets united against that guy. Because in that particular scene SRK knows the united power his girls can defeat that guy. That’s what I am trying to convey, 
+
+// “THERE IS NOTHING THAT CAN ONLY BE DONE BY A MAN AND EVERYTHING CAN BE DONE BY TODAY’S WOMAN FROM BEING PILOT TO PRESIDENT”.
+
+// WOMEN ARE EVERYWHERE, THEY ARE IN EVERY SECTOR – SO THERE IS NO NEED FOR A MAN TO LIFT YOU UP.
+
+// Hardly 2 decades of this film, bad shit was I am still seeing some guy in the name of coach motivating a girl behind the door to come out and play. Kinda heroism our generation enjoy watching.
+
+// These were my circumstances.
+
+// RANDOM THOUGHT: (core)
+
+// In the olden days, there is no freedom for women. Hmm, they will be at the kitchen just cooking.
+
+// But now, Modern men are really different. They say you’re free dear, independent. You can go to work, let’s help each other to run the family. But what about cooking? When it comes to cooking – you can do that too dear. Understood the loop, see how intelligent we men are, making you earn and help the family as well as to cook. I think this trend is changing these days as most men are accompanying their woman not only in the bedroom but also in the kitchen too.
+
+// "IF PUTTING A WOMAN INSIDE A KITCHEN IS AN ACT OF SLAVERY MEANS THEN PUTTING EVERYTHING LIKE GOING FOR JOB TO RUN THE FAMILY, HANDLING THE KIDS, DOING COOKING IN A WOMAN’S HEAD LIKE A SLAVE, ISN’T A SLAVERY?"
+
+// May be you can show me the education rate, success rate of women over the decades. I agree with that but it’s completely a woman’s decision to WORK OR COOK | WORK AS WELL AS COOK.
+
+// To all my fellows,
+
+// Like I said “Women are everywhere, they can empower themselves and SURELY THEY WILL EMPOWER THEMSELVES”.
+
+// We-men need not to make Women Independent
+
+// We-men need not to empower Women… :)
+
+// Thanks man for reading till the end!
+
+// - By Karpaga Ganesh`
+// },
   // Add more...
 ]
