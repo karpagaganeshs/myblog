@@ -357,78 +357,84 @@ Thank you for reading till the end!
 - By Karpaga Ganesh
 `,
   },
-// {
-//   id: '7',
-//   title: "We-men need not to empower Women",
-//   genre: 'social',
-//   summary: 'A thought that arouse in my mind, just a random thought!',
-//   date: '2026-01-08',
-//   image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1767187093/blog_7_tx0nsw.jpg',
-//   content:`Sometimes, it feels like “Yes, I am in and I am going to do this!” and on the contrary some things make you feel like “Should I need to do this stuff now?”. And yeah, that’s how I felt when this topic came into my mind. But TBH there are lots of circumstances that me to take a uturn from “Should I need to write about this?” to “Yes, Definitely I am write about this!”. 
+{
+  id: '7',
+  title: "We-men don’t need to empower Women",
+  genre: 'social',
+  summary: 'A thought that arouse in my mind, just a random thought!',
+  date: '2026-01-11',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1767187093/blog_7_tx0nsw.jpg',
+  content:`Sometimes, it feels like “Yes, I am in, and I am going to do this!” On the contrary, some things make you feel “Do I really need to do this now?”. That’s exactly how I felt when this topic came to my mind. However, several circumstances pushed me to take a U-turn from “Should I write about this?” to “Yes, I am definitely writing about this!”. 
   
-// This is a controversial topic, I should be directly delving into the core to make my statement clear. But before my random thoughts make your brain to start braining, let’s see the circumstances that made me write this blog. Because that’s the only fun part in this whole blog.
+This is a controversial topic, so I should delve directly into the core to make my statement clear. But before the serious stuff makes your brain start braining, let’s look at the circumstances that made me write this blog. Honestly, that’s the only fun part.
 
-// CIRCUMSTANCE 1:
+  CIRCUMSTANCE 1: The Hostel Debate
 
-// To know this circumstance, you need to travel with me to Boy’s hostel. Huh, Dirty cloths and messy rooms I can hear you. Yeah of course, but “We are good” – we don’t paste any heroine’s poster on the walls, just because we’re not in 90s where they don’t have a phone as well as good internet. And I say this again “We are good” but I never said “We are so good”.
+  To know this circumstance, you need to travel with me to Boys’ hostel. Huh, Dirty clothes and messy rooms I can hear you. Yeah of course, but “We are good” – we don’t paste any heroine’s poster on the walls, just because we’re not in 90s where they don’t have a phone as well as good internet. We are "good," but I never said we were "so good." I think you know what I mean.
 
-// I think now you can understand the context. Let’s see what happened on room E7 on a random day of my first year. This room is the place where debates take place. On that day, the topic started somewhere and reached hotness at this question, “Should you expect your future wife to be a virgin?”.
+  Let’s see what happened at room E7 on a random day during my first year. This room is where big debates happen. That day, the topic started somewhere and got heated when someone asked: “Should you expect your future wife to be a virgin?”.
 
-// There are two parties. It’s a long debate with some words (I even don’t know their meaning in English). Lemme come to the important part of it. One of my best friend said, “I know I will be virgin till my marriage and I expect the same from my wife too”. And I remember how it ended “Congrats bro, it’s like finding a dinosaur”.
+  The debate was long and included words I can’t even translate into English. One of my best friends said, “I know I will be a virgin till my marriage, so I expect the same from my wife too”. And I remember how the debate ended “Congrats bro, it’s like finding a dinosaur”.
 
-// People I am not concluding by saying all girls are like this. The problem is in both sides. See in today’s world most of the girls DMs are filled with messages. At least there will be three Romeos. That’s the problem I see in men’s side. The bitter truth is “Boys, women make the path easier for the men they desire”. The whole universe won’t help you, but if she wants you she will help you (Hints man hints). 
+  People, I am not concluding that all girls are the same. I firmly believe that “A woman’s purity and her family’s pride were never between her legs.” 
 
-// But women “How did you choose that desired guy? The one?”. It’s a two phase process. After telling them you girls will definitely slay me by saying it’s not like that KG and I didn’t just state them from any relationship advice book, personally I heard them from my girly friends. Phase 1 – Efforts matter phase – here you will silently see what he does for you, just showing like you don’t care. Phase 2 – Breaking point – this is the moment after all the collection of efforts, at that one last single effort you will feel “He will do anything for me”. 
+  The problem exists on both sides. See in today’s world most of the girls DMs are filled with messages. At least there will be three Romeos. That’s the problem I see on men’s side. The bitter truth is “Boys, women make the path easier for the men they desire”. The whole universe won’t help you, but if she wants you, she will (Hints, man, hints!). 
 
-// The problem I see in women’s side is this two phase attraction process. Dear ladies, A man’s priorities change over time. Some point in life he should only be focusing on his career because after the age of 20 it’s the man’s responsibility to take his family on his shoulders, the entire upcoming generation depends on him. But for women it’s not like that MOST OFTEN, they have options and I say this according to India. I am not stating that men are the pillars of responsibility, even my mother is a working woman she supported my family all the time, really wanted to underline that most often in the last sentence. 
+  But women, “How do you choose that desired guy? The one?”. It’s a two phase process. After I tell that you girls will definitely slay me by saying it’s not like that man and I didn’t just state them from any relationship advice book, personally I heard them from my girly friends. 
 
-// Coming to that point of man’s focusing period, if you feel your man is ignoring at that timeyou then you’re not in an understanding relationship. Yeah, that’s the truth the efforts he had put for you are the good moments and his suffering are his bad moments. If you can’t understand his suffering, How will you guys be an understanding couple in future?”.
+  Phase 1 – Efforts matter phase – here you silently observe what he does for you, while pretending you don’t care. 
 
-// CIRCUMSTANCE 2:
+  Phase 2 – Breaking point – After all the collection of his efforts, at that one last single effort you will start to feel “He will do anything for me”. The problem I see in women’s side is this two phase attraction process. 
 
-// Recently I watched Bad girl movie. The thoughts were appealing and it’s a coming of age film for sure. I personally loved the movie and I thought let’s see how a women reviewed it. I asked for my female friend’s letterboxd ID who had seen that movie. But the twist is I never saw bad girl review. Surprisingly what I saw was the review for the movie named Aan paavam polladhadhu. It’s her wish to review whatever she felt but the review started with, The director is a male chauvinist. There are flaws in the film too, I totally agree. As a movie watcher, book reader or whatever it we’re, we should take only the good stuffs from it not the bad or disturbing ones. It’s just the author’s POV.
+  Dear ladies, A man’s priorities change over time. Some point in life he should only be focusing on his career because after the age of 20 it’s the man’s responsibility to take his family on his shoulders, the entire upcoming generation depends on him. But for women it’s not like that MOST OFTEN, they have options and I say this according to India. I am not stating that men are the pillars of responsibility, even my mother is a working woman she supported my family all the time, really wanted to underline that most often in the last sentence. Coming to that point of man’s focusing period, if you feel your man is ignoring you then you’re not in an understanding relationship. Yeah, that’s the truth the efforts he had put for you are the good moments and his struggles are his bad moments. If you can’t understand his struggles, How can you guys be a strong couple in future?”.
 
-// People there are 2 things I felt after watching that film
+  CIRCUMSTANCE 2: Bad girl
 
-// 1.	The whole society is not like that – it’s the director’s perspective and his life influences.
+  Recently, I watched the movie Bad Girl. The thoughts were appealing and it was a coming of age film. I personally loved the movie and I wanted to see how a woman reviewed it. So I asked for my female friend’s Letterboxd ID who had seen that movie. But the twist was I never saw bad girl review. Surprisingly what I saw was the review for the movie named Aan paavam polladhadhu. It’s her wish to review whatever she felt but the review started with, The director is a male chauvinist. There were flaws in the film too, I totally agree. As a movie watcher, book reader or whatever, we should take only the good from it not the bad or disturbing ones. It was just the author’s POV.
 
-// 2.	But there are couples like them exist too.
+  That film made me realize two things:
 
-// Personally, I loved that film. Now will she call me a male chauvinist? Definitely not! She knows all my struggles and problems I faced till date.
+  1.	The whole society isn't like what you see on screen; it’s just one director's perspective.
 
-// CIRCUMSTANCE 3:
+  2.	However, couples like those in the movies do exist.
 
-// Dear friends, you all have watched CHAK DE! INDIA. To me it’s the best sports movie ever filmed by Indian cinema and it’s one of the rarest gem that speaks real “Feminism”. In one scene SRK will take all the players of the Indian women’s hockey team to a restaurant for his farewell. There in the restaurant a guy messes up with one player of the team but SRK as a hero of the film never shows heroism by entering the scene, he silently sits and make all the players gets united against that guy. Because in that particular scene SRK knows the united power his girls can defeat that guy. That’s what I am trying to convey, 
+  Personally, I loved that film. Now will she call me a male chauvinist? Definitely not! She knows all my struggles and problems I faced till date.
 
-// “THERE IS NOTHING THAT CAN ONLY BE DONE BY A MAN AND EVERYTHING CAN BE DONE BY TODAY’S WOMAN FROM BEING PILOT TO PRESIDENT”.
+  These are those circumstances.
 
-// WOMEN ARE EVERYWHERE, THEY ARE IN EVERY SECTOR – SO THERE IS NO NEED FOR A MAN TO LIFT YOU UP.
+  Dear friends, you all have watched CHAK DE! INDIA. To me it’s the best sports movie ever filmed by Indian cinema and it’s one of the rarest gem that speaks real “Feminism”. In one scene, SRK takes all the players of the Indian women’s hockey team to a restaurant for his farewell. In the restaurant a guy harasses one of the players, SRK as a hero of the film never shows heroism by entering the scene, he silently sits back and makes all the women unite to defeat him. Because in that particular scene SRK knows the united power of his girls can defeat that guy. That’s what I am trying to convey 
+  
+“THERE IS NOTHING THAT CAN ONLY BE DONE BY A MAN AND EVERYTHING CAN BE DONE BY TODAY’S WOMAN FROM BEING PILOT TO PRESIDENT”.
 
-// Hardly 2 decades of this film, bad shit was I am still seeing some guy in the name of coach motivating a girl behind the door to come out and play. Kinda heroism our generation enjoy watching.
+  WOMEN ARE EVERYWHERE, THEY ARE IN EVERY SECTOR – SO THERE IS NO NEED FOR A MAN TO LIFT YOU UP.
 
-// These were my circumstances.
+  Hardly 2 decades of the film, bad shit was I still see guys acting as coach and motivating a girl behind the door to come out and play. Kinda heroism our generation enjoy watching.
 
-// RANDOM THOUGHT: (core)
+  RANDOM THOUGHT:
 
-// In the olden days, there is no freedom for women. Hmm, they will be at the kitchen just cooking.
+  In the olden days, women were confined to kitchen - just cooking.
 
-// But now, Modern men are really different. They say you’re free dear, independent. You can go to work, let’s help each other to run the family. But what about cooking? When it comes to cooking – you can do that too dear. Understood the loop, see how intelligent we men are, making you earn and help the family as well as to cook. I think this trend is changing these days as most men are accompanying their woman not only in the bedroom but also in the kitchen too.
+  But now, Modern men are really different. They say you’re free dear, independent. You just - Go work, let’s help each other to run the family. But what about cooking? Well they say – you can do that too dear. Understood the loop, see how intelligent we men are, making you earn and help the family as well as to cook. I think this trend is changing these days as most men are accompanying their woman not only in the bedroom but also in the kitchen.
 
-// "IF PUTTING A WOMAN INSIDE A KITCHEN IS AN ACT OF SLAVERY MEANS THEN PUTTING EVERYTHING LIKE GOING FOR JOB TO RUN THE FAMILY, HANDLING THE KIDS, DOING COOKING IN A WOMAN’S HEAD LIKE A SLAVE, ISN’T A SLAVERY?"
+  If confining a woman to a kitchen was an act of slavery, then forcing her to work, handle the kids, and cook – all at once - in a woman’s head, isn’t that slavery?
 
-// May be you can show me the education rate, success rate of women over the decades. I agree with that but it’s completely a woman’s decision to WORK OR COOK | WORK AS WELL AS COOK.
+  May be you can show me the education rate, success rate of women over the decades. I agree with that but it’s completely a woman’s decision to WORK OR COOK | WORK AS WELL AS COOK.
 
-// To all my fellows,
+  TO ALL MY FELLOWS,
 
-// Like I said “Women are everywhere, they can empower themselves and SURELY THEY WILL EMPOWER THEMSELVES”.
+  Like I said “Women are everywhere, they can empower themselves and THEY WILL EMPOWER THEMSELVES”.
 
-// We-men need not to make Women Independent
+  Empowerment isn't a gift men "give" to women.
 
-// We-men need not to empower Women… :)
+  So,
 
-// Thanks man for reading till the end!
+  We-men don’t need to make Women Independent
 
-// - By Karpaga Ganesh`
-// },
-  // Add more...
+  We-men don’t need to empower Women… :)
+
+Thanks man for reading till the end!
+
+- By Karpaga Ganesh`
+},
+  //Add more...
 ]
