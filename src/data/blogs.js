@@ -436,5 +436,98 @@ Thanks man for reading till the end!
 
 - By Karpaga Ganesh`
 },
+{
+  id: '8',
+  title: "Tripping Trip - My Ooty Tour",
+  genre: 'my-journey',
+  summary: 'Memories of Ooty travel!',
+  date: '2026-01-21',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1768940489/blog_8_cihdf8.jpg',
+  content:`Thank you, guys! But all of a sudden, why am I thanking you? Lemme answer this with a question.
+
+  What makes a writer happy? Do you know, guys?
+
+  More readers, nah. 
+
+  Worshiped as a player of words, nah.
+
+  Being praised as a creative person, nah.
+
+  Or being mentioned as a favourite writer – None of the above. 
+
+  It’s just the readers aligning with the author’s thought. Most writers fail in this, making it difficult for readers to understand what they are trying to convey. And I think this is the line that differentiates a writer from an author(creator). Everyone can write, but only a few can express in writing. The last blog, “We-men do not need to empower Women” was that kind of piece.
+
+  I thought, “Ok fine, KG, you’re going to get a big bash for writing something like this”. But everything turned upside down, some of you said, “Man, you spoke something that was in my heart for years”. And some said, “The idea was raw, many can’t accept the title itself, but you blended it with damn good circumstances and explained it like a master!”
+
+  Felt like an author for the first time, guys! Thank you so much for making me feel special :)
+
+  Ok, people, the last blog was hard-hitting. So I want this blog to be a fun-filled one, that’s why I am going to narrate a tale of my previous trip.
+
+  Disclaimer: Please, please, please don’t judge me after reading. Because I’ll be doing random and crazy stuff when I am surrounded by my close friends. Ok chalo!
+
+  TRIPPING TRIP:
+
+  WHY OOTY?
+
+  Usually, boys’ trip planning starts with Ladakh. But we are very knowledgeable fellows; we know Ladakh is not at all possible, so we thought of going to Gokarna. From Gokarna it shrunk to Wayanad, from Wayanad it leaned to Ooty. Thank God, it stopped there with Ooty not shifting to Kodaikkannal.
+
+  PARTNERS IN CRIME:
+
+  We are a set of three (Kaakha Kaakha reference) - Myself, Prasanna, and Varun. Varun was my first-year roommate, and Prasanna is my current and third-year roommate at TCE. One guy was from CSE, another was from EEE, and the other was from Civil. A trip with other department friends always hits different. I took charge of finding the best spots in Ooty for the two-day trip. Varun went to find the nice restaurants just for the taste/tongue, and Prasanna hunted for a place to stay. But everything tilted when Varun shared an Insta reel…
+
+  THE INSTA REEL:
+
+  On searching for budget stays in Ooty, Varun found that reel. It suggested a hotel named Hidden Doors Ooty. They just asked for Rs. 500 as an advance for booking via Gpay. I sent an advance of 500 to Varun to lock that room. But Varun and Prasanna played with me, saying that. “Mama, Gpay number la oru digit maari pochu da, advance avlo dhan marandhuru” (subtitle: mistakenly paid the advance amount to another phone number). It made me freak out, coz I am not a rich kid, so 500 is a very big amount for me, with 500 I can eat 2 good biryanis and 1 fried rice. After calming myself, I started to think about how to retrieve my amount. I found an Indian Government website, www.ncii.com, where you can file complaints about UPI transactions, and you will get your money soon. For filing a complaint, I needed that transaction ID. So I called Varun to ask him for the ID. But Varun pivoted the topic, and I, too, had a doubt that these two are lying because these fellows are more cautious about money than I am. And yeah, they played with me, the advance was paid. But the room was not booked. What the owner thought was that we would arrive at night, but we went in the early morning, and there were no free rooms, especially no receptionist, no reception, only one sofa was there, shit. So we left that place and found another stay, “Gostops”.
+
+  People, please don’t book any hotel that appears at the top of the search results, since it can be fake, and with some money and keyword engineering, they can alter the algorithm to suggest their hotels at the top of the list. So please be aware.
+
+  DAY 1:
+
+  We headed to Ooty from Madurai, but when we reached there, it was around 4:30 in the morning, and while entering Ooty, I saw a beautiful night view of Ooty school( the one you have seen in Nanban), which was glowing in its lights. I turned to wake up my travel partners to show that, but they were sleeping like polar bears. Yeah, everyone in that bus was sleeping, but “I am Batman,” actually, I hate sleeping in buses. 
+
+  I jumped out of the bus with great enthusiasm, but my teeth started to type already. So we went to the tea shop within the bus stand and said “Rendu tea, oru boost uh”. I went to the next shop to buy a kulla for the shop owner, and I said “onnu naapadhu”. I gave him 40 rs, he scolded me, and if you’re a Tamilian, you know why. (It’s 140 Rs)
+
+  On the way to Gostops, I saw a bunch of bison that were behind the fence, but according to my eyes only (Poor vision). I was around 5 am, and no sunlight. I took my phone camera and went near it, thinking the fence was complete, but there was a vent between the bison and me. Varun noticed that and ran away from us with a great scream. And then only I realised (it’s like Gopalu Gopalu moment from Chandramukhi), and thank God the bison also had poor vision like me, and I escaped successfully.
+
+  It’s 9 am, and the first place we visited was Doddabetta Peak. It’s the highest point from where you can see the whole of Ooty. I felt bad there, the peak was peak, but the thing was, I didn’t see many Tamil tourists there; it was flooded with North Indian people. One north Indian gave me a saffron coloured phone to take pictures of him, and I touched an iPhone 17 Pro Max for the first time after 3 months of its release. I just clicked, iPhone did its magic, and that moment, I saw my phone like Raguvaran (VIP movie) seeing his moped; however, I know affording an iPhone is impossible for me since buying any electronic product for 1 lakh is a sin according to my mom. 
+
+  From Doddabetta peak, we want to go to the Tea garden, which is within walking distance. The Tea Garden is a go-to place for couples and Instagram creators. Even my current Insta DP was shot there. From there we went to the Chocolate factory, but I wasn’t much interested since I stopped eating chocolates in March, the best thing I did in 2025. Then we went to the Rose Garden, but there were no roses. If you want to see the gardens in bloom, you must visit in May.
+
+  The time is 6 pm, and most of the tourist attractions in Ooty close at 6 pm. We reached Gostops and started to play billiards. Prasanna’s job was to dial the guy who took our advance amount, and we all three yelled at him, and finally, the amount came.
+
+  It’s around 10 pm, and the bonfire at Gostops was going on. We sat with strangers from different states, except us, all were vibing to Hindi songs. But Hindi songs were never a problem, and even a guy mixed rum with Rasna, which also was not a problem since we don’t drink. The problem was that everyone was a couple, even I hated going to FC in my college because of couples. In the morning, while travelling to Doddabetta, I saw many couples travelling on their bikes. And it felt like one day I will take my RE and come with my girl. This desire was not because of Ooty, it’s because of Achcham yenbadhu madamaiyada. But there is no my girl character since I wanted to explore myself first, so it’s me and my RE (Strictly no ladies)
+
+  After the bonfire, while going to our room, I saw that rum and rasna guy cuddling his GF under a quilt in the name of Ooty weather with doors wide open. I thought of asking him, Can I close the door for you? You stupid…
+
+  DAY 2:
+
+  We vacated from Gostops and went to the cloak room in Ooty central bus stand to safeguard our things. There were no lockers; it’s just a room, and we need to keep our bags somewhere, so Varun curiously asked the in-charge, “Is it safe?” That’s all, the in-charge went to peek and angrily replied, “We have cameras all around the place, and even speakers are here like biggboss”.
+
+  After the cloak room fight, we went to Pykara waterfalls, which is my favourite place in the whole trip, because the sizzling of water spoke to me a lot, and literally it took me away from this noisy world. 
+
+  Then we walked 2 kms surrounded by a dense forest for boating. Everyone used vans and cars; we three were the only human beings walking on that road. While planning for the trip, Prasanna had seen a reel about a tiger crossing in the dense forest road of Ooty, and Prasanna started to blurt out, “Engeyo paathuruken indha road ah,” and he showed us that reel. The place we were standing was the same place the tiger crossed. However, we were never served tigers! Great escape.
+
+  The most enjoyable moment of the trip was boating for sure. We took a three-member speedboat. I sat in the front with the captain, and the other two were in the back seats. Ten minutes of speed boating cost 1100 rs for three, I thought it was too high, but it was once in a lifetime experience, while the waves approached the boat it tilted and I am with my phone recording, I need to shoot properly in one hand and catch the rope for my safety in other hand and I felt like Bear Grylls for a moment.
+
+  Then I convinced my buddies to visit Pine forest, calling it a “Mandatory spot of Ooty”. We went there via KSRTC bus, and to our surprise, there was no conductor in the bus. I thought the Karnataka Govt was leaving free buses for tourists. But when the stop arrived, the driver never stopped, and he asked for fare, “You give money, I will put the brake”. We gave the amount after understanding the tactic of the Karnataka Govt by reducing the conductor's salary, and one guy commented that they don’t give water, so how will they provide us with free travel?
+
+  The mandatory pine forest was ordinary, and we went to the Ooty central bus stand cloak room to take our luggage since we booked a 6 pm bus. The person in charge went missing, and the door was open, and we were shocked. And after some time, he came, and I asked him, “The door was open, you’re not here, and in the morning you said it’s highly secured…” But that guy said the same thing he told in the morning, “We have cameras all around the place, and even speakers are here like biggboss,” but this time with a soft voice, and we understood it’s not anger, it’s his dialogue, which he parroted to all the tourists.
+
+  Then we had 10 minutes before the departure, and we suddenly went to the tea shop we visited first. When Prasanna tried to tell the order, the tea master itself told us “Rendu tea, oru boost uh”, yes, we went to that shop more than 5 times in 2 days and ordered the same. And that’s how the trip ended!
+
+  What did I GOT FOR MYSELF?
+
+  Ooty became like another native within 2 days, people felt so personal, even I thought if I became a rich guy in the future, I would buy a private property in Ooty and would visit Ooty whenever stress arises, like our Superstar travelling to the Himalayas.
+
+  I was happy throughout the trip. I don’t know how you felt after reading it, but for me, it taught two things…
+
+  1. BOREDOM IS UNIVERSAL - Even the chilling 10-minute boating saga started to get boring after 5 minutes of getting used to it. Life is also like that, the places we visit, the food we eat, our job/workspace, and even our partner – everything may make you feel bored. We just need to find the new horizons to love it!
+
+  2. TRAVEL AND NATURE HEALS – Travelling never solved my problems, but it left me somewhere I can sit quietly and stop my mind, letting it rest for a while. 
+
+  Thank you for reading till the end!
+
+- By Karpaga Ganesh`
+},
   //Add more...
 ]
