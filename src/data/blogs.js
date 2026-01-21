@@ -485,9 +485,9 @@ Thanks man for reading till the end!
 
   We headed to Ooty from Madurai, but when we reached there, it was around 4:30 in the morning, and while entering Ooty, I saw a beautiful night view of Ooty school( the one you have seen in Nanban), which was glowing in its lights. I turned to wake up my travel partners to show that, but they were sleeping like polar bears. Yeah, everyone in that bus was sleeping, but “I am Batman,” actually, I hate sleeping in buses. 
 
-  I jumped out of the bus with great enthusiasm, but my teeth started to type already. So we went to the tea shop within the bus stand and said “Rendu tea, oru boost uh”. I went to the next shop to buy a kulla for the shop owner, and I said “onnu naapadhu”. I gave him 40 rs, he scolded me, and if you’re a Tamilian, you know why. (It’s 140 Rs)
+  On reaching the central bus stand, I jumped out of the bus with great enthusiasm, but my teeth started to type already. So we went to the tea shop within the bus stand and said “Rendu tea, oru boost uh”. I went to the next shop to buy a kulla for me, and the shop keeper said “onnu naapadhu”. I gave him 40 rs, he scolded me, and if you’re a Tamilian, you know why. (It’s 140 Rs)
 
-  On the way to Gostops, I saw a bunch of bison that were behind the fence, but according to my eyes only (Poor vision). I was around 5 am, and no sunlight. I took my phone camera and went near it, thinking the fence was complete, but there was a vent between the bison and me. Varun noticed that and ran away from us with a great scream. And then only I realised (it’s like Gopalu Gopalu moment from Chandramukhi), and thank God the bison also had poor vision like me, and I escaped successfully.
+  On the way to Gostops, I saw a bunch of bison that were behind the fence, but according to my eyes only (Poor vision). It was around 5 am, and no sunlight. I took my phone camera and went near it, thinking the fence was complete, but there was a vent between the bison and me. Varun noticed that and ran away from us with a great scream. And then only I realised (it’s like Gopalu Gopalu moment from Chandramukhi), and thank God the bison also had poor vision like me, and I escaped successfully.
 
   It’s 9 am, and the first place we visited was Doddabetta Peak. It’s the highest point from where you can see the whole of Ooty. I felt bad there, the peak was peak, but the thing was, I didn’t see many Tamil tourists there; it was flooded with North Indian people. One north Indian gave me a saffron coloured phone to take pictures of him, and I touched an iPhone 17 Pro Max for the first time after 3 months of its release. I just clicked, iPhone did its magic, and that moment, I saw my phone like Raguvaran (VIP movie) seeing his moped; however, I know affording an iPhone is impossible for me since buying any electronic product for 1 lakh is a sin according to my mom. 
 
@@ -523,7 +523,7 @@ Thanks man for reading till the end!
 
   1. BOREDOM IS UNIVERSAL - Even the chilling 10-minute boating saga started to get boring after 5 minutes of getting used to it. Life is also like that, the places we visit, the food we eat, our job/workspace, and even our partner – everything may make you feel bored. We just need to find the new horizons to love it!
 
-  2. TRAVEL AND NATURE HEALS – Travelling never solved my problems, but it left me somewhere I can sit quietly and stop my mind, letting it rest for a while. 
+  2. TRAVEL AND NATURE HEALS – Travelling never solved my problems, but it left me somewhere I can sit quietly and stop my mind, letting it rest for a while. That's it people! 
 
   Thank you for reading till the end!
 
