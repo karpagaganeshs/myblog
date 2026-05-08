@@ -69,7 +69,7 @@ const Home = () => {
           <div className="flex flex-col md:flex-row items-center md:items-start gap-10 max-w-4xl mx-auto">
             <div className="relative">
               <img
-                src='https://res.cloudinary.com/dmg0m90am/image/upload/v1755887619/about-photo_umssbv.jpg'
+                src='https://res.cloudinary.com/dmg0m90am/image/upload/v1778209796/about-photo_umssbv.jpg'
                 alt="Karpaga Ganesh"
                 className="w-36 h-36 md:w-44 md:h-44 rounded-full object-cover border-4 border-white shadow-lg"
               />

@@ -535,12 +535,12 @@ Thanks man for reading till the end!
   genre: 'my-journey',
   summary: 'A heartfelt reflection on how repeated mistakes can exhaust the people who love us, leaving behind permanent pain that teaches us how to live with...',
   date: '2026-05-08',
-  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1778210007/IMG-20250917-WA0000_1_kkiumu.jpg',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1778228273/IMG-20250917-WA0000_1_kkiumu.jpg',
   content:`Long time, right?
 
   A few months ago, a good friend of mine asked me a question... 
 
-  And at that moment I said I never faced something like that so I can't talk about it. But today, I think I have the maturity and understanding to write about it.
+  And at that moment I said I never faced something like that so I can't talk about it. But, I think as a writer I have write about all the things.
 
   I will reveal you the question at the end... I think that through the course of this blog, you will figure out what that question was. Chalo!
 
