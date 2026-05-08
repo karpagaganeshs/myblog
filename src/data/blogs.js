@@ -529,5 +529,111 @@ Thanks man for reading till the end!
 
 - By Karpaga Ganesh`
 },
+{
+  id: '9',
+  title: "the Mistake and the Mirage",
+  genre: 'my-journey',
+  summary: 'A heartfelt reflection on how repeated mistakes can exhaust the people who love us, leaving behind permanent pain that teaches us how to live with...',
+  date: '2026-05-08',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1778210007/IMG-20250917-WA0000_1_kkiumu.jpg',
+  content:`Long time, right?
+
+  A few months ago, a good friend of mine asked me a question... 
+
+  And at that moment I said I never faced something like that so I can't talk about it. But today, I think I have the maturity and understanding to write about it.
+
+  I will reveal you the question at the end... I think that through the course of this blog, you will figure out what that question was. Chalo!
+
+  Let me start my storytelling... 
+
+  The story of mistake and mirage:
+
+  If you ask a school student from my era, What was the peak excitement during your school days? or What's the biggest thing you waited to happen? They will say 2 things for sure
+
+  And if he is a boy, he will definitely say this - I am waiting for joining 6th standard so that he can wear pants to school (an upgrade from shorts). That feeling was truly different and the main reason for this happiness is you can wear low hip. 
+
+  Second thing is... I don't know the exact standard for this... Must be 3rd standard I think so... That's the time you hold a pen in your hand for the first time. Everyone says that's a great feeling but eventually you will start using pencil for putting lines with scale and eradicating the erasers... 
+
+  But these erasers are - "The most innocent souls".
+
+  If you're an OG, you must have heard this, "Thank you erasers for the second chance!"... Remember this... Yes, yes, classmate note cover... What a great era we lived on!
+
+  Erasers give us a second chance... But how they have become innocent souls? That's where we failed to understand... 
+
+  ~~~~~~~~~~~~~~~~
+
+  
+  You have a white paper in your hands, 
+  You write something on it that makes the paper look terrible.
+  The eraser clears that mess for you.
+
+  After that, you scribble on the same paper again. Eraser came to rescue again... And this happens 17 times, but the 18th time the eraser didn't came to the rescue. 
+
+  Why what happened? The purpose of an eraser is to clear that know?
+
+  You may think the eraser has gone because of frustration. Yes, the eraser left not because of frustration... After erasing the mess on that paper again and again, it lost itself. 
+
+  It's gone now, the beauty of an eraser is that it loses and sheds itself every time to make the paper look normal again for you.
+
+  After sometime, you can make some beautiful art over your mess on that same paper - you may not know this, "Erasing something doesn’t always mean it completely disappears."
+
+  Even after changing it, the marks still remain on the paper.
+
+  The Real story:
+
+  You have your life in your hands, 
+  You made a mistake in that made your life look terrible,
+  someone close to you helps clear that mess for you.
+
+  After that you did a mistake in your life again, that person who trusts you comes to the rescue again. And this happens 17 times, but during the 18th time they didn't came for rescue. 
+
+  Why what happened? The purpose of someone close to you is to help you, right?
+
+  You may think that person has gone because of frustration. Yes, they're gone because they're exhausted and emotionally drained. After dealing with the mess you created in your life again and again that person has lost themselves in it.. 
+
+  They're done now, they have nothing left to give. The beauty of those beautiful people is that they lose themselves everytime to make your life feel normal again - just for you.
+
+  After sometime, you can make some beautiful thing on your life but we don't know that, "Changing something doesn’t always mean it changes all around - the mirage"
+
+  Even after trying to change something in your life, the pain still remains in your life.
+
+  And the pain still remains because of your mistake not because of the one who left you - Your Eraser... 
+
+  Roles and players:
+
+  1. Pencil - you
+
+  2. Paper - your life
+
+  3. Eraser - someone close to your heart
+
+  4. Scribbles - your mistakes
+
+  5. Changing it - mirage
+
+  6. Marks that still remain on the paper - the Pain that you carry everyday in your life. 
+
+  ~~~~~~~~~~~~~~~~
+
+
+  Some mistakes can never be undone.
+
+  By the time we even realise what we've done, it's already a disaster.
+
+  Those mistakes turn into deep wounds and these wounds never heal, they just become part of who we are.
+
+  And in the end, it's not about forgetting it or forgiving ourselves, it's just learning to walk with it.
+
+  Simply, if the pain is because of what you did in your life you can change it at some point.. 
+  But if the pain is because of what you did "to someone" in your life you can't change it at any point... you have to carry it till your last breath. 
+
+  And the question once asked to me was... "How to deal with grief, Ganesh?"
+
+  So... We have come to the end, and maybe this blog feels disturbing... But these are the words from my heart... If you have anything to say, you can also disturb me like I disturbed you... 
+
+  Sorry once again, if it made you sad...
+
+- By Karpaga Ganesh`
+},
   //Add more...
 ]
