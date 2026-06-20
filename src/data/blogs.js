@@ -635,5 +635,64 @@ Thanks man for reading till the end!
 
 - By Karpaga Ganesh`
 },
+{
+  id: '10',
+  title: "A Rosemilk Realization",
+  genre: 'my-journey',
+  summary:'Talking about the bridge between parenthood and childhood, and how it turns out in the children\'s adulthood with my life experience!',
+  date: '2026-06-20',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1781969017/1000102558_n13e6c.jpg',
+  content:`Yesterday, I went to my college to collect my marksheet.
+
+On the way, I noticed something that felt strangely beautiful.
+
+I had this bad habit of reading all the names of shops from the bus whenever I get a window seat… I was doing the same yesterday. And I found a "Sugarcane juice shop" where a Father was standing with his elder son (must have been studying 7th or 8th standard) and his daughter (she was wearing a frock, must be a primary school girl, probably below 5th standard). It was summertime in Madurai, the temperature was really, really high, so they were there to drink sugarcane juice - that's all I thought. But a second later, something caught my attention and instantly took me back to my childhood.
+
+Both the kids were happily drinking their sugarcane juice while the father was standing beside them. Helmet in one hand. His little daughter's school bag in the other. And the sugarcane machine had already stopped. He never bought one for himself. And suddenly, I remembered my own father.
+
+When I was a kid, I used to have half-day school on saturdays (that's the beautiful day of the week > sundays). My father used to pick me up, and after buying all the groceries my mother had listed, we would pass through Karaikudi palaya bus stand (Old bus stand of Karaikudi town). Near that bus stand, there's a famous fruit juice shop that still exists today.
+Every single time, I would ask for a fruit mixture.
+And every single time, without hesitation, he would buy one for me and simply stand there.
+Both these men (fathers) reminded me of the same thing, They both definitely had the money to buy juice for themselves, but they didn't… Why?
+
+It's also for us only😭,
+"If I save this little amount, maybe my children might ask for something later, which I could buy them."
+
+A fatherly thing most of us never understand.
+And as a little boy, I never once asked him, whether he wants a juice or at least a sip from mine.
+
+Yesterday, after seeing this, on the way home I bought these rosemilks for him and my family- which is not an achievement, but a realization. And anyway I bought with my hard-earned money, so somewhat felt special😅
+
+Talking about the rosemilks, they really really tasted well. Because me and my friends, we never went to the famous Meenakshi Amman temple during those four years of college, but went to all the hotels, exploring the core taste of Madurai.
+
+Madurai is famous for it's Jigardhanda, but this rosemilk shop carries its own heritage over the years… In the locals if you say "24/7 Rosemilk Shop" only then will they understand and direct you the routes.
+
+So if you ever go to Madurai give it a shot.
+
+Coming back to my rosemilk story - I went home with these bottles and gave them to him.
+For him, it was just a rosemilk.
+
+For me, it felt like the greatest achievement I have ever had.
+
+Because for the first time, he was the one drinking.
+
+And I was one simply standing there, watching.
+
+A beautiful moment to be carved out in my heart. But if I try to satisfy all the things he had done, there will be big mountain in front of me, because even now the phone I am typing was not bought by me.
+
+Ok, sooner or later we will get him one IPhone. But then, what about Maa?
+
+I was a cesarean born baby, she let doctors make an incision to bring me into this world.
+
+How am I ever going to repay? This will take another lifetime for me.
+
+Sometimes I was being mentioned as not a good son according to the society and according to people, but I think I should❌, I must✅ make them happy till their last breath, even though I am not happy.
+
+Thank you maa and paa for all your sacrifices ❤️
+
+For you from your,
+
+- Karpaga Ganesh`
+},
   //Add more...
 ]
