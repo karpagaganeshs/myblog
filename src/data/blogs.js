@@ -715,7 +715,9 @@ I know what you’re thinking: why am I extending, without telling the name of t
 
 My music-listening history is a long love story, that habit started with my mom who used to listen to Kodai FM 100.5 and later got updated to sun music and eventually to paying for a monthly YouTube Music Premium subscription (suggest me any free music app if you know🥲).
 
-But the weirdest part is that I started loving songs because of drivers... Not those 9 mm or 12 mm drivers in headphones, I am talking about bus drivers... Yes, nearing the end of my school days, I used to travel on different buses rather than the yellow painted school buses, to manage my schedule between tution classes and school. In the morning, I used to take a private bus to school, there the driver played mostly AR Rahman and sometimes MAMS (Harris Jayaraj MAMS - Master At Music & Sounds, if you're Harris fan and still don't know this, knew it now😁). No wonder I became a Rahman fan, because sometimes the song that you heard in the morning, you used to humm the song the whole day. Have you ever experienced this? In the evening after my tution classes are over at Nethaji Tution Centre - NTC, famous in Karaikudi surrounding, I used to go to home in a brown colour Government bus 9A, that bus conductor was a die-hard Ilayaraja fan. So the evening breeze and Raja song always hit differently (We hate Raja, not Raja songs🎵). Even today, after so many years, I still have my own retro playlist and many of my friends use that.
+But the weirdest part is that I started loving songs because of drivers... Not those 9 mm or 12 mm drivers in headphones, I am talking about bus drivers... Yes, nearing the end of my school days, I used to travel on different buses rather than the yellow painted school buses, to manage my schedule between tution classes and school. In the morning, I used to take a private bus to school, there the driver played mostly AR Rahman and sometimes MAMS (Harris Jayaraj MAMS - Master At Music & Sounds, if you're Harris fan and still don't know this, knew it now😁). No wonder I became a Rahman fan, because sometimes the song that you heard in the morning, you used to humm the song the whole day. Have you ever experienced this? 
+
+In the evening after my tution classes are over at Nethaji Tution Centre - NTC, famous in Karaikudi surrounding, I used to go to home in a brown colour Government bus 9A, that bus conductor was a die-hard Ilayaraja fan. So the evening breeze and Raja song always hit differently (We hate Raja, not Raja songs🎵). Even today, after so many years, I still have my own retro playlist and many of my friends use that.
 
 So from my vibrant vibe history, you can understand I hear so much of songs, but some songs has been relooped in ears for years. Example...
 
@@ -736,7 +738,7 @@ In 2019 my 10th days, the whole school was vibing for HI SONNA PODHUM from Comal
 2024, Danger alert 🚨 It was Isai arakkan's entry... But Ani forever for me... I went with Dheema Dheema
 
 2025, So we came to awaited part, that 404 - minute song, any guesses (Please don't guess it's Oorum blood, I am not a kid, but it's a PR song) -
-VAZHITHUNAIYE❤
+VAZHITHUNAIYE❤️
 
 2026 is still fresh...
 
@@ -747,6 +749,7 @@ But if someone suddenly comes and asks me, "What's the song you love the most?"
 My answer would lean 80% towards "MUNBE VAA" (Because that's the first song I listen to whenever I buy a new pair of headphones whether they cost ₹100 or ₹10000 - this song is the first priority) and for the remaining 20%, I would say Hosana, Kadhal sadukudu, Shades of kadhal, Ennavale adi ennavale, Minnalgal koothadum, Idhayam idam maariyadhe(trust me), En jeevan & Thaimai from Theri, Krishna (Jawan), Avalukena, Manamaganin sathiyam, Thalli pogadhey & Avalum Naanum, Unnaale unnaale, Konjam konjam, En kadhal solla, En Kannu kulla, Neeyum naanum anbe, Nadan parinde (I don't know Hindi, but this un understandable song understood me...), Mental Manadhil (Female) (Comes during the end credit of Ok Kanmani, splendid piece) and "KADHALADA (Reprise)" (If you listen the lyrics carefully it beautifully covers a woman's life. From a man's love - 'Seiyadha maadhavam neeye' - to motherhood - 'Thaai ennum thanga deivam maaradha anbin vadhanam', One of the most beautiful and unexpected parts of the reprise is how it shifts from romantic love to motherhood, in short a bliss).
 
 Omg I love Kadhaladaa Reprise more than Munbe vaa... But I heard Vazhithunaiye for 100 times😶 🌫️
+
 Confusion... Confusion... Confusion again😂
 
 So I clearly didn't know the answer for the question - What's the song I love the most?
@@ -768,7 +771,7 @@ Ok I am going to say that get ready all, this is the album I would choose again 
 
 This album is home for me, because it covers all the emotions and it's suits moment in one's life...
 
-1. Idhazhin Oram❤ - First attraction - Simply, if you get butterflies, you can play this.
+1. Idhazhin Oram❤️ - First attraction - Simply, if you get butterflies, you can play this.
 
 2. Kannazhaga🤍 - Deep romance - Simply, if you both get butterflies on seeing each other, you can play this (in a word a song for committed guys)
 
@@ -776,9 +779,9 @@ This album is home for me, because it covers all the emotions and it's suits mom
 
 4. Come on girls💗 - Party and partnership- simply if you don't wanna have a duet with your loved one all the time, and wanna feel the friendship that existed within your relationship, this is the song coz love sometimes, you need your partner to be your closest friend, the person with whom you can share your unknown, unspoken feelings without hesitation.
 
-5. Why this kolaveri?❤ 🩹 - Heartbreak feeling version 1 - Simply, if you need someone to whine your feelings... This song does that job clearly - A blaming heartbreak
+5. Why this kolaveri?❤️‍🩹 - Heartbreak feeling version 1 - Simply, if you need someone to whine your feelings... This song does that job clearly - A blaming heartbreak
 
-6. Po nee po❤ 🔥 - Heartbreak feeling version 2 - Simply, if you don't want to complain or talk shit about the one who left, but you feel like crying from inside, hear this song and...
+6. Po nee po❤️‍🔥 - Heartbreak feeling version 2 - Simply, if you don't want to complain or talk shit about the one who left, but you feel like crying from inside, hear this song and...
 
 7. Po nee po (remix)💔 - The unleavened ache - Simply, if you think that pain never fades and now it's no longer merely sadness - it feels like desperation, anger and almost an unbearable cry, this song... Sometimes I use this in gym😅
 
