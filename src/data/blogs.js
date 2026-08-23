@@ -694,5 +694,106 @@ For you from your,
 
 - Karpaga Ganesh`
 },
+{
+  id: '11',
+  title: "How to find something you love?",
+  genre: 'my-journey',
+  summary:'A late-night journey through music, memories, and love that explores how we subconsciously discover the things - and people - we truly can’t skip.',
+  date: '2026-06-20',
+  image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1787488860/1000123508_1_g25c07.jpg',
+  content:`It’s exactly 1:34 AM, the song in my headphones is "Iravingu theevai". This is the typa song many people used to listen to, but most don't reveal that they even know this song, maybe they thought others would think they were weird or they wanted it be a underrated one. Because in 96, 'Anthadhi' is the most praised one (a beautiful one indeed), because of reels, even though that song isn’t present in the movie.
+
+But wait a minute, why am I typing all this in the middle of the night...
+
+Because this directly correalates with our title of the blog, "How to find something you love? (Subconsciously)". Sorry, I subconsciously missed typing ‘subconsciously’ in the title.😴
+
+This isn’t only about finding our soulmate, from career to kadhal, we don't know what we love... A small change - we don't know 'how to find what we love'.
+
+Omg, the next song just started. I love it... But how do I say I love it? Because my music player’s 2025 recap said you heard this for 404 minutes. Looks like an ersai, right? (same feeling if you're a computer science you would know 404 errors). Actually I thought it was an error from my music player side until I saw the name of that song. The song is roughly 4 minutes long, which means I heard it about 100 times... 😱
+
+I know what you’re thinking: why am I extending, without telling the name of that song? You definitely need to wait, because I don't like opening suspenses.
+
+My music-listening history is a long love story, that habit started with my mom who used to listen to Kodai FM 100.5 and later got updated to sun music and eventually to paying for a monthly YouTube Music Premium subscription (suggest me any free music app if you know🥲).
+
+But the weirdest part is that I started loving songs because of drivers... Not those 9 mm or 12 mm drivers in headphones, I am talking about bus drivers... Yes, nearing the end of my school days, I used to travel on different buses rather than the yellow painted school buses, to manage my schedule between tution classes and school. In the morning, I used to take a private bus to school, there the driver played mostly AR Rahman and sometimes MAMS (Harris Jayaraj MAMS - Master At Music & Sounds, if you're Harris fan and still don't know this, knew it now😁). No wonder I became a Rahman fan, because sometimes the song that you heard in the morning, you used to humm the song the whole day. Have you ever experienced this? In the evening after my tution classes are over at Nethaji Tution Centre - NTC, famous in Karaikudi surrounding, I used to go to home in a brown colour Government bus 9A, that bus conductor was a die-hard Ilayaraja fan. So the evening breeze and Raja song always hit differently (We hate Raja, not Raja songs🎵). Even today, after so many years, I still have my own retro playlist and many of my friends use that.
+
+So from my vibrant vibe history, you can understand I hear so much of songs, but some songs has been relooped in ears for years. Example...
+
+In 2017, I am at 7th std IG, I had my first crush and that was the time when Thalapathy's Bhairava got released, it had one song which was written by Vairamuthu, I used to feel like some angels were playing that song for me when I was roaming behind my first crush (Not stalking, I didn’t even know what that was at that age🤣), that song was "NILLAYO"
+
+Coming to 2018, this year was literally a tough year, a highly competitive batch, people were vibing to different songs. Around the globe, Ed's PERFECT was everywhere. Even today, I still have a downloaded copy of the video song on my laptop. Coming to India, everyone was murmuring in telugu,I still can’t forget it - it was the ‘Inkem Inkem’ year.” In Tamilnadu, people are vibing for KALYANA VAYASU from CoCo and some were changing their ringtones to KADHALE KADHALE of 96. But as a school kid I was obsessed with ORASAADHA and OTHAIYADI PADHAIYILA (both songs are inseparable, btw vibing for the same girl only🤣)
+
+In 2019 my 10th days, the whole school was vibing for HI SONNA PODHUM from Comali, and I liked MARUVARTHAI and PULARADHA (inseparable again, peak Sid Sriram days).
+
+2020, Covid times - OTT releases, people sitting at home and making reels for CHELLAMA CHELLAMA from Doctor. (Sensational bruh, I too liked it undoubtedly)
+
+2021, Adiye from Bachelor was the winner, but my heart always leaned towards BODHAI KANAME from Oh Manapenne.
+
+2022, No debate RENDU KADHAL for sure.
+
+2023, during this time, I was nearing the end of my first year, and I remember hearing Kattumalli from Viduthalai. But that's not my favourite. Hear this song from 2023, then you'll know why - IMAITHIDATHE.
+
+2024, Danger alert 🚨 It was Isai arakkan's entry... But Ani forever for me... I went with Dheema Dheema
+
+2025, So we came to awaited part, that 404 - minute song, any guesses (Please don't guess it's Oorum blood, I am not a kid, but it's a PR song) -
+VAZHITHUNAIYE❤
+
+2026 is still fresh...
+
+Coming to the point, I loved these many songs over the years. I'm not a Playboy in real life, but I am a playboy in loving multiple songs IG😂
+
+But if someone suddenly comes and asks me, "What's the song you love the most?"
+
+My answer would lean 80% towards "MUNBE VAA" (Because that's the first song I listen to whenever I buy a new pair of headphones whether they cost ₹100 or ₹10000 - this song is the first priority) and for the remaining 20%, I would say Hosana, Kadhal sadukudu, Shades of kadhal, Ennavale adi ennavale, Minnalgal koothadum, Idhayam idam maariyadhe(trust me), En jeevan & Thaimai from Theri, Krishna (Jawan), Avalukena, Manamaganin sathiyam, Thalli pogadhey & Avalum Naanum, Unnaale unnaale, Konjam konjam, En kadhal solla, En Kannu kulla, Neeyum naanum anbe, Nadan parinde (I don't know Hindi, but this un understandable song understood me...), Mental Manadhil (Female) (Comes during the end credit of Ok Kanmani, splendid piece) and "KADHALADA (Reprise)" (If you listen the lyrics carefully it beautifully covers a woman's life. From a man's love - 'Seiyadha maadhavam neeye' - to motherhood - 'Thaai ennum thanga deivam maaradha anbin vadhanam', One of the most beautiful and unexpected parts of the reprise is how it shifts from romantic love to motherhood, in short a bliss).
+
+Omg I love Kadhaladaa Reprise more than Munbe vaa... But I heard Vazhithunaiye for 100 times😶 🌫️
+Confusion... Confusion... Confusion again😂
+
+So I clearly didn't know the answer for the question - What's the song I love the most?
+
+That question is similar to Whom did you love the most?, or...... Simply we need to find answer for this question
+"How to find something you love?" Which is our title... Full circle moment huh😅
+
+Ok readers, we've come to the climax...
+
+Even though I have these many favourite songs, at some point of time, if some of these songs appear in the shuffled list, depending on my mood, I would listen to them or I would skip.
+
+SINCE THESE ARE MY FAVOURITE ONES, NOT MY LOVED ONES.
+
+Collapsing? Don't search for fav vs love... Remember 3?... Nah nah... I am not going to tell remember these 3 points for finding what you love or 3 points to differentiate fav vs love😂. I was talking about the movie 3✨
+
+This movie's album is a personal favourite. Again, I'm saying 'favourite'... You're going to kill me🤣
+
+Ok I am going to say that get ready all, this is the album I would choose again and again and LOVE listening to every time.
+
+This album is home for me, because it covers all the emotions and it's suits moment in one's life...
+
+1. Idhazhin Oram❤ - First attraction - Simply, if you get butterflies, you can play this.
+
+2. Kannazhaga🤍 - Deep romance - Simply, if you both get butterflies on seeing each other, you can play this (in a word a song for committed guys)
+
+3. Nee paartha vizhigal💞 - In depth emotional connection - Simply, if you and your loved one are reminiscing about your love and those memories after years in love, you can play this (you could call it an after-marriage anthem, useful while telling your love story to your kids)
+
+4. Come on girls💗 - Party and partnership- simply if you don't wanna have a duet with your loved one all the time, and wanna feel the friendship that existed within your relationship, this is the song coz love sometimes, you need your partner to be your closest friend, the person with whom you can share your unknown, unspoken feelings without hesitation.
+
+5. Why this kolaveri?❤ 🩹 - Heartbreak feeling version 1 - Simply, if you need someone to whine your feelings... This song does that job clearly - A blaming heartbreak
+
+6. Po nee po❤ 🔥 - Heartbreak feeling version 2 - Simply, if you don't want to complain or talk shit about the one who left, but you feel like crying from inside, hear this song and...
+
+7. Po nee po (remix)💔 - The unleavened ache - Simply, if you think that pain never fades and now it's no longer merely sadness - it feels like desperation, anger and almost an unbearable cry, this song... Sometimes I use this in gym😅
+
+I said no... With this album, you can relate to all the emotions in love... Now I can say "3 for life" ... Am I?
+
+In my personal opinion, The most beautiful thing about this album is "I can't skip any song from it"... Even though the song doesn't relate with my mood, my mood shifts toward the song instead of making me skip it...
+
+In pursuit of finding your love also, it's same... Maybe you can't be romantic even if you try, but if that person comes near you, you can't skip them and their presence at all, you will listen, you will watch their eyelids close and open, simply everything will move in slow motion and you won't fast forward
+or skip them... Just as I changed my mood to match the song, you’ll adapt your emotions to understand that one person and their perspective... If they feel sad, you will feel sad for sure, even though your brain knows they're upset over something silly, your heart won't listen. Maybe that's why, to me, emotional intimacy can feel more powerful than physical intimacy. And that's how you find your love! 🎆
+
+I mentioned so many favourite songs, but I hid every single song from the whole album I loved the most... Because we humans CONSCIOUSLY hide things we love SUBCONSCIOUSLY... LOVE is not FINDING FAVOURITE or CHOOSING THE BEST option we have, it's just the feeling of knowing the UNSKIPPABLE ONE. Like how I found 3, you will also find your love <3. Just remember the secret word, Unskippable...
+
+For you from your,
+
+- Karpaga Ganesh`
+},
   //Add more...
 ]
