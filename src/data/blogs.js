@@ -699,7 +699,7 @@ For you from your,
   title: "How to find something you love?",
   genre: 'my-journey',
   summary:'A late-night journey through music, memories, and love that explores how we subconsciously discover the things - and people - we truly can’t skip.',
-  date: '2026-06-20',
+  date: '2026-08-28',
   image: 'https://res.cloudinary.com/dmg0m90am/image/upload/v1787488860/1000123508_1_g25c07.jpg',
   content:`It’s exactly 1:34 AM, the song in my headphones is "Iravingu theevai". This is the typa song many people used to listen to, but most don't reveal that they even know this song, maybe they thought others would think they were weird or they wanted it be a underrated one. Because in 96, 'Anthadhi' is the most praised one (a beautiful one indeed), because of reels, even though that song isn’t present in the movie.
 
